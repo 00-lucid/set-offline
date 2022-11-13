@@ -1,0 +1,23 @@
+{
+  "name": "set-offline",
+  "version": "0.1.1",
+  "description": "Automatically offline-setting client by yarn-offline-mirror",
+  "bin": {
+    "set-offline": "bin/cli.js"
+  },
+  "keywords": [
+    "yarn",
+    "offline",
+    "mirror",
+    "auto",
+    "setting"
+  ],
+  "author": "Hyungjin Nam",
+  "license": "MIT",
+  "files": [
+    "cli"
+  ],
+  "dependencies": {
+    "commander": "^9.4.1"
+  }
+}

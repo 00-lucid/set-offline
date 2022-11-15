@@ -20,7 +20,7 @@ init keyword is apply offline setting to node modules
 
 after apply, check created npm_packages folder in your project directory
 
-you can use npm_packages when move project in offline infra
+you can use npm_packages when project in offline infra
 
 like below
 ```

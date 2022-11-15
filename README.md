@@ -18,7 +18,7 @@ set-offline init
 init keyword is apply offline setting to node modules
 
 
-after apply, create npm_packages folder in your project directory
+after apply, check created npm_packages folder in your project directory
 
 you can use npm_packages when move project in offline infra
 

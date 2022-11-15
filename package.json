@@ -1,6 +1,6 @@
 {
   "name": "set-offline",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Automatically offline-setting client by yarn-offline-mirror",
   "bin": {
     "set-offline": "bin/cli.js"

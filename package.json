@@ -19,5 +19,9 @@
   ],
   "dependencies": {
     "commander": "^9.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/00-lucid/set-offline"
   }
 }

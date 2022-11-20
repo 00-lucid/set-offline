@@ -1,5 +1,9 @@
 Easy and efficient node modules use for offline
 
+## requirement
+
+yarn
+
 ## usage
 
 ```
